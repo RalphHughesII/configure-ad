@@ -82,11 +82,10 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://i.imgur.com/ZE7t2JQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
- - Log out ofthe Remote Desktop connection to DC-1 and log back in as “mydomain.com\jane_admin”
-
  
+ - Log out ofthe Remote Desktop connection to DC-1 and log back in as “mydomain.com\jane_admin”
  <p>
-
+<br />
 <img src="https://i.imgur.com/T8FBBIy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
