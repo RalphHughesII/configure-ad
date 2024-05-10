@@ -82,6 +82,11 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://i.imgur.com/ZE7t2JQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+ - Log out ofthe Remote Desktop connection to DC-1 and log back in as “mydomain.com\jane_admin”
+
+<img src="https://i.imgur.com/T8FBBIy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ 
+ - Use jane_admin as your admin account from now on
+
 </p>
 <br />
