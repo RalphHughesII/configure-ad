@@ -52,6 +52,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://i.imgur.com/lxPwPPV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+ 
      - Click next, create password, click next through next 5 windows and click install
      - Reconnect to DC-1 as user "mydomain.com" if it automatically restarts
 
