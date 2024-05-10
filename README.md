@@ -61,9 +61,12 @@ This tutorial outlines the implementation of on-premises Active Directory within
   - Click the start menu and type "Active Directory Users"
   - Open "Active Directory Users and Computers"
   - Right click "mydomain.com", select "new" and click "Organizational Unit"
+  - Type "_EMPLOYEES and click ok
+  - Right click "mydomain.com", select "new" and click "Organizational Unit"
+  - Type "_ADMINS and click ok
 
 <p>
-<img src="https://i.imgur.com/fhPDWOi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/n2aIFAo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
