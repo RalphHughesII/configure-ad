@@ -53,8 +53,8 @@ This tutorial outlines the implementation of on-premises Active Directory within
 </p>
 <p>
  
-    - Click next, create password, click next through next 5 windows and click install
-    - Reconnect to DC-1 as user "mydomain.com" if it automatically restarts
+   - Click next, create password, click next through next 5 windows and click install
+   - Reconnect to DC-1 as user "mydomain.com" if it automatically restarts
 
 <h3>Create Admin and Normal User Accounts in Active Directory</h3>
 
