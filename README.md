@@ -27,6 +27,18 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>Deployment and Configuration Steps</h2>
 
+<h3>Ensure Connectivity between Client-1 and DC-1</h3>
+
+ - Login to Client-1 using remote desktop connection and ping DC-1's IP address with ping -t
+ - Login to DC-1 and enable ICMPv4 on the local windows Firewall
+    - Click Windows icon on lower left corner of Window, type "wf.msc" and press enter
+    - Click "Inbound Rules", click protocol and enable all icmp rules
+
+  <img src="https://i.imgur.com/rTZ1nuw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+    
+    - Notice how ping respond on Client-1
+ - Go back to Client-1 to see the ping succeed
+
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
