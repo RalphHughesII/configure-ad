@@ -64,9 +64,13 @@ This tutorial outlines the implementation of on-premises Active Directory within
   - Type "_EMPLOYEES and click ok
   - Right click "mydomain.com", select "new" and click "Organizational Unit"
   - Type "_ADMINS and click ok
+  - Right click "Admins", highlight "new" and select "user"
+  - Name the account "Jane Doe".  User logon name: "jane_admin" and click next
+  - Create a password and uncheck "user must change password at next logon".  Click next
+
 
 <p>
-<img src="https://i.imgur.com/n2aIFAo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Uho80Tp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
