@@ -46,20 +46,26 @@ This tutorial outlines the implementation of on-premises Active Directory within
      - Click next for the first three windows, click "Active Directory Domain Services", click add features, click next three times and click install
      - Click close after completing installation
      - Click the yellow triangle on upper right corner and click "promote this server to a domain controller"
-     - Select "Add a new forest" and type "mydomain.com" in text box
+     - Select "Add a new forest" and type "mydomain.com\username" in text box
 
 <p>
 <img src="https://i.imgur.com/lxPwPPV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+     - Click next, create password, click next through next 5 windows and click install
+     - Reconnect to DC-1 as user "mydomain.com" if it automatically restarts
+
+<h3>Create Admin and Normal User Accounts in Active Directory</h3>
+
+  - Click the start menu and type "Active Directory Users"
+  - Open "Active Directory Users and Computers"
+  - Right click "mydomain.com", select "new" and click "Organizational Unit"
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fhPDWOi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
