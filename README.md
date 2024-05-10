@@ -83,8 +83,10 @@ This tutorial outlines the implementation of on-premises Active Directory within
 </p>
 <p>
  - Log out ofthe Remote Desktop connection to DC-1 and log back in as “mydomain.com\jane_admin”
+ 
 
 <img src="https://i.imgur.com/T8FBBIy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
  
  - Use jane_admin as your admin account from now on
 
