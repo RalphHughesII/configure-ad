@@ -33,9 +33,11 @@ This tutorial outlines the implementation of on-premises Active Directory within
  - Login to DC-1 and enable ICMPv4 on the local windows Firewall
     - Click Windows icon on lower left corner of Window, type "wf.msc" and press enter
     - Click "Inbound Rules", click protocol and enable all icmp rules
-
+<p>
+<br />
   <img src="https://i.imgur.com/rTZ1nuw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-    
+</p>
+<p>  
     
  - Go back to Client-1 to see the ping succeed
 
@@ -49,6 +51,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
      - Select "Add a new forest" and type "mydomain.com\username" in text box
 
 <p>
+<br />
 <img src="https://i.imgur.com/lxPwPPV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
@@ -70,20 +73,21 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 
 <p>
+<br />
 <img src="https://i.imgur.com/Uho80Tp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
  - Right click Jane Doe, click properties, click member of, click add, type domain, click check names, select domain admins, click ok, click apply and click ok
+
 </p>
 <br />
-
-<p>
 <img src="https://i.imgur.com/ZE7t2JQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  
  - Log out ofthe Remote Desktop connection to DC-1 and log back in as “mydomain.com\jane_admin”
+   
  <p>
 <br />
 <img src="https://i.imgur.com/T8FBBIy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -102,7 +106,8 @@ This tutorial outlines the implementation of on-premises Active Directory within
     - Click network settings and copy the Private IP address
     - Search for virtual machines, click enter and select Client-1
     - Click network settings, click client-1 network interface
-  <p>
+      
+<p>
 <br />
 <img src="https://i.imgur.com/96duvAN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -113,7 +118,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
  - Open remote desktop connection and connect to Client-1
  - Right click start menu, click system, click Rename this PC, click change, click Domain and type "mydomain.com".
 
- <p>
+<p>
 <br />
 <img src="https://i.imgur.com/7fJg316.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
