@@ -41,6 +41,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
     
  - Go back to Client-1 to see the ping succeed
 
+
   <h3>Install Active Directory</h3>
 
   - Go back to DC-1 and install Active Directory Domain Services
