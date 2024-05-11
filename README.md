@@ -142,4 +142,13 @@ This tutorial outlines the implementation of on-premises Active Directory within
 </p>
 <p>
    
+ - Log off of Client-1 and log back in using jane_admin(without needing to input mydomain.com)
 
+<p>
+<br />
+<img src="https://i.imgur.com/CTiC8Sk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+ - Notice that you are able to successfully login using jane_admin
+   
