@@ -107,5 +107,10 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://i.imgur.com/96duvAN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+
+ - Click "DNS Servers", click Custom, type DC-1 dns server address and click save
+ - In azure type "virtual machine" in search box, click Client-1, click restart
+ - Open remote desktop connection and connect to Client-1
+ - 
    
 
