@@ -88,7 +88,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 </p>
 <p>
  
- - Log out ofthe Remote Desktop connection to DC-1 and log back in as “mydomain.com\jane_admin”
+ - Log out of the Remote Desktop connection to DC-1 and log back in as “mydomain.com\jane_admin”
    
  <p>
 <br />
