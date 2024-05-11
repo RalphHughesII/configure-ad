@@ -119,3 +119,27 @@ This tutorial outlines the implementation of on-premises Active Directory within
 </p>
 <p>
 
+ - Login using Jane Doe's account
+
+<p>
+<br />
+<img src="https://i.imgur.com/FQfVSto.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+ - Click ok and click ok to restart
+ - Open remote desktop connection and connect to Client-1
+ - Login using Jane Doe's account
+
+ <h3>Configuring Remote Desktop for non-administrative users on Client-1</h3>
+
+ - Right click start menu, click system, click Remote Desktop and click "select users that can remotely access this PC", click add, type "domain users", click check 
+   names and click ok.
+
+<p>
+<br />
+<img src="https://i.imgur.com/q4iOuMN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   
+
