@@ -94,3 +94,18 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 </p>
 <br />
+
+<h3>Join Client-1 to your domain (mydomain.com)</h3>
+
+ - Go back to Azure Portal and set Client 1's DNS settings to the DC's Private IP address
+    - In azure type "virtual machine" in search box, click DC-1
+    - Click network settings and copy the Private IP address
+    - Search for virtual machines, click enter and select Client-1
+    - Click network settings, click client-1 network interface
+  <p>
+<br />
+<img src="https://i.imgur.com/96duvAN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   
+
