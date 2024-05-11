@@ -98,9 +98,6 @@ This tutorial outlines the implementation of on-premises Active Directory within
  
  - Use jane_admin as your admin account from now on
 
-</p>
-<br />
-
 <h3>Join Client-1 to your domain (mydomain.com)</h3>
 
  - Go back to Azure Portal and set Client 1's DNS settings to the DC's Private IP address
